@@ -41,7 +41,13 @@ This project is designed to solve the LinkedIn Queens game by automating the pro
     pip install -r requirements.txt
     ```
 
-4. **Run the main file**
+4. **Update LinkedIn Credentials**
+   
+   ```
+   Update your LinkedIn credentials in the credentials.py file
+   ```
+
+5. **Run the main file**
     
     ```
     python main.py
